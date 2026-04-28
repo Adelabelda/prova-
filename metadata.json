@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora d'Edat",
+  "description": "Una aplicació senzilla i elegant per calcular la teva edat exacta en anys, mesos i dies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
